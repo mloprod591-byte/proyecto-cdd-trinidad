@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260514195846U1VA2E</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260514195846QZPMWP</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Geometría e Identidad: El Código de las Marcas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Logotipos, Tangencias y Diseño Asistido por ordenador</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Trinidad López Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>&quot;Geometría e Identidad: El Código de las Marcas&quot; es una Situación de Aprendizaje (SdA) diseñada para la materia de Dibujo Técnico I (Bachillerato/4º ESO).
+
+El objetivo principal es que el alumnado diseñe su propia identidad visual (marca personal) integrando el rigor del trazado geométrico analógico (enlaces y tangencias) con la potencia de las herramientas de diseño asistido por ordenador (CAD).
+
+A lo largo del recurso, se abordan contenidos de:
+
+Geometría métrica aplicada: Análisis y trazado de logotipos reales.
+
+Competencia Digital: Gestión de software vectorial (QCAD/LibreCAD), curación de contenidos y seguridad digital (protección de datos y derechos digitales).
+
+Evaluación competencial: Inclusión de rúbricas de desempeño técnico y dianas de autoevaluación.
+
+Este recurso sigue los principios del DUA para fomentar la autonomía del alumnado y la colaboración mediante sistemas de mentoría digital.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778781483806</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_extraHeadContent</key>
+    <value>&lt;style&gt;
+/* Mejora de la tipografía y legibilidad (DUA) */
+body {
+    font-family: &apos;Segoe UI&apos;, Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Diseño moderno para las tablas (Tareas 6.1 y 8.1) */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+table th {
+    background-color: #2c3e50; /* Color azul profesional */
+    color: white;
+    padding: 15px;
+    text-align: left;
+}
+
+table td {
+    padding: 12px;
+    border-bottom: 1px solid #eee;
+}
+
+table tr:hover {
+    background-color: #f5f5f5; /* Efecto al pasar el ratón */
+}
+
+/* Estilo para los bloques de aviso o importancia */
+.exe-emphasis-area {
+    border-left: 5px solid #3498db;
+    background-color: #ecf0f1;
+    padding: 15px;
+    border-radius: 0 5px 5px 0;
+}
+&lt;/style&gt;</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp5skgzo-sihp7e48o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5skgzo-sihp7e48o</odePageId>
+      <odeBlockId>block-1778776591305-zujsr8our</odeBlockId>
+      <blockName>Geometría e Identidad: El Código de las Marcas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzo-sihp7e48o</odePageId>
+          <odeBlockId>block-1778776591305-zujsr8our</odeBlockId>
+          <odeIdeviceId>idevice-1778776591302-vnfrjb28t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenido/a a este proyecto de Dibujo Técnico. ¿Alguna vez te has preguntado por qué los logotipos de Apple, Nike o Mercedes-Benz resultan tan atractivos? La respuesta está en la geometría oculta.</p>
+<p>En esta unidad, te convertirás en diseñador/a. Tu reto será crear tu propia marca personal, uniendo el rigor del dibujo con regla y compás con la potencia del diseño asistido por ordenador (CAD).</p>
+<p>¿Qué vamos a aprender?</p>
+<p>A analizar tangencias y enlaces en diseños reales.<br />A dominar el software QCAD/LibreCAD.<br />A gestionar tu identidad y seguridad en la red.</p>
+<figure class="exe-figure position-center" style="width: 574px;">
+<div class="figcaption header"><strong>Geometría en el diseño de marcas: Twitter.</strong></div>
+<img src="{{context_path}}/content/resources/twitter_construction.jpg" title="Logo Twitter" width="574" height="298" alt="Análisis geométrico del antiguo logotipo de Twitter montado sobre círculos de construcción." />
+<figcaption class="figcaption"><span class="title"><em>La imagen superior se utiliza exclusivamente con fines educativos y de análisis técnico en el contexto de la materia de Dibujo Técnico. Se muestra para ilustrar la aplicación práctica de tangencias y circunferencias en el diseño de identidad visual. El logotipo original y la marca "Twitter" son propiedad registrada de Twitter, Inc. / X Corp. No se hace uso comercial de la misma.</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778776591302-vnfrjb28t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenido/a a este proyecto de Dibujo Técnico. ¿Alguna vez te has preguntado por qué los logotipos de Apple, Nike o Mercedes-Benz resultan tan atractivos? La respuesta está en la geometría oculta.</p>\n<p>En esta unidad, te convertirás en diseñador/a. Tu reto será crear tu propia marca personal, uniendo el rigor del dibujo con regla y compás con la potencia del diseño asistido por ordenador (CAD).</p>\n<p>¿Qué vamos a aprender?</p>\n<p>A analizar tangencias y enlaces en diseños reales.<br />A dominar el software QCAD/LibreCAD.<br />A gestionar tu identidad y seguridad en la red.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 574px;\">\n<div class=\"figcaption header\"><strong>Geometría en el diseño de marcas: Twitter.</strong></div>\n<img src=\"{{context_path}}/content/resources/twitter_construction.jpg\" title=\"Logo Twitter\" width=\"574\" height=\"298\" alt=\"Análisis geométrico del antiguo logotipo de Twitter montado sobre círculos de construcción.\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>La imagen superior se utiliza exclusivamente con fines educativos y de análisis técnico en el contexto de la materia de Dibujo Técnico. Se muestra para ilustrar la aplicación práctica de tangencias y circunferencias en el diseño de identidad visual. El logotipo original y la marca \"Twitter\" son propiedad registrada de Twitter, Inc. / X Corp. No se hace uso comercial de la misma.</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5skgzq-8htemzd99</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5skgzq-8htemzd99</odePageId>
+      <odeBlockId>block-1778777595940-g1oa4znae</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzq-8htemzd99</odePageId>
+          <odeBlockId>block-1778777595940-g1oa4znae</odeBlockId>
+          <odeIdeviceId>idevice-1778777595937-0ize6lfdn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.128%;">
+<tbody>
+<tr>
+<td style="width: 33.2056%;"><strong>Tarea del Proyecto</strong></td>
+<td style="width: 33.2056%;"><strong>Criterio de Evaluación</strong></td>
+<td style="width: 33.2056%;"><strong>Herramienta Digital</strong></td>
+</tr>
+<tr>
+<td style="width: 33.2056%;"><strong>1. Puesta a punto</strong></td>
+<td style="width: 33.2056%;">5.1. Gestión de software CAD y errores.</td>
+<td style="width: 33.2056%;">Manual de errores comunes.</td>
+</tr>
+<tr>
+<td style="width: 33.2056%;"><strong>2. Análisis Geométrico</strong></td>
+<td style="width: 33.2056%;"> 1.1. Identificar geometría en el entorno.</td>
+<td style="width: 33.2056%;"> Padlet / Symbaloo.</td>
+</tr>
+<tr>
+<td style="width: 33.2056%;"><strong>3. Diseño Manual</strong></td>
+<td style="width: 33.2056%;">2.3. Resolver tangencias y enlaces.</td>
+<td style="width: 33.2056%;">Instrumental técnico.</td>
+</tr>
+<tr>
+<td style="width: 33.2056%;"><strong>4. Digitalización CAD</strong></td>
+<td style="width: 33.2056%;"> 5.1. Crear figuras con dibujo vectorial.</td>
+<td style="width: 33.2056%;">QCAD / LibreCAD.</td>
+</tr>
+<tr>
+<td style="width: 33.2056%;"><strong>5. Memoria Técnica</strong></td>
+<td style="width: 33.2056%;">4.1. Aplicar normas UNE e ISO.</td>
+<td style="width: 33.2056%;">Canva / Genially.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778777595937-0ize6lfdn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.128%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2056%;\"><strong>Tarea del Proyecto</strong></td>\n<td style=\"width: 33.2056%;\"><strong>Criterio de Evaluación</strong></td>\n<td style=\"width: 33.2056%;\"><strong>Herramienta Digital</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.2056%;\"><strong>1. Puesta a punto</strong></td>\n<td style=\"width: 33.2056%;\">5.1. Gestión de software CAD y errores.</td>\n<td style=\"width: 33.2056%;\">Manual de errores comunes.</td>\n</tr>\n<tr>\n<td style=\"width: 33.2056%;\"><strong>2. Análisis Geométrico</strong></td>\n<td style=\"width: 33.2056%;\"> 1.1. Identificar geometría en el entorno.</td>\n<td style=\"width: 33.2056%;\"> Padlet / Symbaloo.</td>\n</tr>\n<tr>\n<td style=\"width: 33.2056%;\"><strong>3. Diseño Manual</strong></td>\n<td style=\"width: 33.2056%;\">2.3. Resolver tangencias y enlaces.</td>\n<td style=\"width: 33.2056%;\">Instrumental técnico.</td>\n</tr>\n<tr>\n<td style=\"width: 33.2056%;\"><strong>4. Digitalización CAD</strong></td>\n<td style=\"width: 33.2056%;\"> 5.1. Crear figuras con dibujo vectorial.</td>\n<td style=\"width: 33.2056%;\">QCAD / LibreCAD.</td>\n</tr>\n<tr>\n<td style=\"width: 33.2056%;\"><strong>5. Memoria Técnica</strong></td>\n<td style=\"width: 33.2056%;\">4.1. Aplicar normas UNE e ISO.</td>\n<td style=\"width: 33.2056%;\">Canva / Genially.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5skgzr-wreqhdxnn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad e Identidad Digital</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad e Identidad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad e Identidad Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5skgzr-wreqhdxnn</odePageId>
+      <odeBlockId>block-1778778388648-iiwc0mkrg</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzr-wreqhdxnn</odePageId>
+          <odeBlockId>block-1778778388648-iiwc0mkrg</odeBlockId>
+          <odeIdeviceId>idevice-1778778388645-in0su2ic5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;">En nuestro proceso de diseño, la seguridad es lo primero. Antes de empezar a trabajar en la red, consulta esta Guía de Buenas Prácticas. En ella encontrarás cómo proteger tus datos personales en el aula, cuáles son tus derechos como ciudadano digital y cómo respetar la propiedad intelectual al usar recursos para tus logotipos.</figure>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/InfografíaSeguridadDigital.jpg" title="Infografía Seguridad Digital" width="800" height="2000" alt="Infografía sobre protección de datos, derechos digitales y netiqueta para el aula de Dibujo Técnico" />
+<figcaption class="figcaption"><span class="author">María Trinidad López Rodríguez.</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778778388645-in0su2ic5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\">En nuestro proceso de diseño, la seguridad es lo primero. Antes de empezar a trabajar en la red, consulta esta Guía de Buenas Prácticas. En ella encontrarás cómo proteger tus datos personales en el aula, cuáles son tus derechos como ciudadano digital y cómo respetar la propiedad intelectual al usar recursos para tus logotipos.</figure>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/InfografíaSeguridadDigital.jpg\" title=\"Infografía Seguridad Digital\" width=\"800\" height=\"2000\" alt=\"Infografía sobre protección de datos, derechos digitales y netiqueta para el aula de Dibujo Técnico\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Trinidad López Rodríguez.</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5skgzr-99bgxapce</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos de Diseño</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos de Diseño</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos de Diseño</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5skgzr-99bgxapce</odePageId>
+      <odeBlockId>block-1778778594062-7km12dfe9</odeBlockId>
+      <blockName>INSPÍRATE</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzr-99bgxapce</odePageId>
+          <odeBlockId>block-1778778594062-7km12dfe9</odeBlockId>
+          <odeIdeviceId>idevice-1778778594060-fxw1gu06o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Utiliza estos paneles para inspirarte y encontrar las herramientas necesarias para tu diseño:</p>
+<h3>Muro de Inspiración (Padlet)</h3>
+<p><iframe width="100%" height="500px" src="https://padlet.com/mloprod591/recursos-para-el-diseno-de-logotipos-1-bach-2km1dqc0lp1y9cjs"></iframe></p>
+<h3>Herramientas Docentes (Symbaloo)</h3>
+<p>Consulta aquí el <a href="https://www.symbaloo.com/shared/AAAAAw4BKAAAA41_W3T3Jw==" target="_blank" rel="noopener">Repositorio de Herramientas</a>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778778594060-fxw1gu06o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Utiliza estos paneles para inspirarte y encontrar las herramientas necesarias para tu diseño:</p>\n<h3>Muro de Inspiración (Padlet)</h3>\n<p><iframe width=\"100%\" height=\"500px\" src=\"https://padlet.com/mloprod591/recursos-para-el-diseno-de-logotipos-1-bach-2km1dqc0lp1y9cjs\"></iframe></p>\n<h3>Herramientas Docentes (Symbaloo)</h3>\n<p>Consulta aquí el <a href=\"https://www.symbaloo.com/shared/AAAAAw4BKAAAA41_W3T3Jw==\" target=\"_blank\" rel=\"noopener\">Repositorio de Herramientas</a>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5skgzr-37ifsnghq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Hoja de Ruta</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Hoja de Ruta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Hoja de Ruta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5skgzr-37ifsnghq</odePageId>
+      <odeBlockId>block-1778778842374-e9tqr2r1j</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzr-37ifsnghq</odePageId>
+          <odeBlockId>block-1778778842374-e9tqr2r1j</odeBlockId>
+          <odeIdeviceId>idevice-1778778842371-pftsi51e0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Timeline de la Situación de Aprendizaje</strong></p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p><br />Guía visual para el diseño de tu marca personal. Este cronograma te servirá de hoja de ruta para conectar los fundamentos de la geometría métrica con el diseño vectorial profesional. A lo largo de las próximas 8 sesiones, transitaremos desde el análisis visual y el bocetado manual con regla y compás, hasta la digitalización final en software CAD. Organización y Flexibilidad: El proyecto está diseñado con una estructura flexible para adaptarnos a posibles imprevistos tecnológicos (red o software). Contaremos con: Espacios híbridos: Alternancia entre el aula de dibujo y el aula de informática. Apoyo mutuo: Sistema de "mentores digitales" y manuales de resolución de errores para fomentar tu autonomía.</p>
+<p><strong>Fase de Análisis</strong></p>
+<p><br />- Sesión 1<br />Taller de Puesta a Punto Configuración de software CAD y gestión de incidencias. Organización: 1 Sesión / Gran Grupo. Espacio y Recursos: Aula de Informática. Ordenadores y software QCAD/LibreCAD. Nota CDD: Gestión de la incertidumbre mediante manuales de errores comunes.<br /><br />- Sesión 2<br />El Código de las Marcas Análisis de tangencias en logotipos reales. Organización: 1 Sesión / Parejas cooperativas. Herramientas: Uso de Padlet y Symbaloo (enlaces en descripción). Espacio: Aula de Informática.<br />Análisis de tangencias en logotipos reales.</p>
+<p>Organización: 1 Sesión / Parejas cooperativas.</p>
+<p>Herramientas: Uso de Padlet y Symbaloo (enlaces en descripción).</p>
+<p>Espacio: Aula de Informática.</p>
+<p><strong>Fase de Diseño Manual</strong></p>
+<p>- Sesiones 3 y 4<br />Diseño Analógico (Bocetado) Trazado de la marca personal con instrumental técnico. Organización: 2 Sesiones / Individual. Espacio y Recursos: Aula de Dibujo. Regla, compás y láminas.<br /></p>
+<p><strong>Fase Digital y Entrega</strong></p>
+<p><br />- Sesiones 5, 6 y 7<br />Digitalización Vectorial Traslado del diseño al entorno digital (CAD). Organización: 3 Sesiones / Individual con "Mentores Digitales". Recursos: Software CAD y videotutoriales de apoyo.<br /><br />- Sesión 8<br />Presentación de la Identidad Exposición de la marca y entrega de memoria técnica. Organización: 1 Sesión / Feedback grupal. Herramientas: Presentación en Canva o Genially.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778778842371-pftsi51e0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Timeline de la Situación de Aprendizaje</strong></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p><br />Guía visual para el diseño de tu marca personal. Este cronograma te servirá de hoja de ruta para conectar los fundamentos de la geometría métrica con el diseño vectorial profesional. A lo largo de las próximas 8 sesiones, transitaremos desde el análisis visual y el bocetado manual con regla y compás, hasta la digitalización final en software CAD. Organización y Flexibilidad: El proyecto está diseñado con una estructura flexible para adaptarnos a posibles imprevistos tecnológicos (red o software). Contaremos con: Espacios híbridos: Alternancia entre el aula de dibujo y el aula de informática. Apoyo mutuo: Sistema de \"mentores digitales\" y manuales de resolución de errores para fomentar tu autonomía.</p>\n<p><strong>Fase de Análisis</strong></p>\n<p><br />- Sesión 1<br />Taller de Puesta a Punto Configuración de software CAD y gestión de incidencias. Organización: 1 Sesión / Gran Grupo. Espacio y Recursos: Aula de Informática. Ordenadores y software QCAD/LibreCAD. Nota CDD: Gestión de la incertidumbre mediante manuales de errores comunes.<br /><br />- Sesión 2<br />El Código de las Marcas Análisis de tangencias en logotipos reales. Organización: 1 Sesión / Parejas cooperativas. Herramientas: Uso de Padlet y Symbaloo (enlaces en descripción). Espacio: Aula de Informática.<br />Análisis de tangencias en logotipos reales.</p>\n<p>Organización: 1 Sesión / Parejas cooperativas.</p>\n<p>Herramientas: Uso de Padlet y Symbaloo (enlaces en descripción).</p>\n<p>Espacio: Aula de Informática.</p>\n<p><strong>Fase de Diseño Manual</strong></p>\n<p>- Sesiones 3 y 4<br />Diseño Analógico (Bocetado) Trazado de la marca personal con instrumental técnico. Organización: 2 Sesiones / Individual. Espacio y Recursos: Aula de Dibujo. Regla, compás y láminas.<br /></p>\n<p><strong>Fase Digital y Entrega</strong></p>\n<p><br />- Sesiones 5, 6 y 7<br />Digitalización Vectorial Traslado del diseño al entorno digital (CAD). Organización: 3 Sesiones / Individual con \"Mentores Digitales\". Recursos: Software CAD y videotutoriales de apoyo.<br /><br />- Sesión 8<br />Presentación de la Identidad Exposición de la marca y entrega de memoria técnica. Organización: 1 Sesión / Feedback grupal. Herramientas: Presentación en Canva o Genially.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5skgzs-8cb3neewq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El Reto: Tu Marca Persona</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Reto: Tu Marca Persona</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Reto: Tu Marca Persona</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>El Reto: Tu Marca Persona</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5skgzs-8cb3neewq</odePageId>
+      <odeBlockId>block-1778780022583-oxfq8u9ja</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzs-8cb3neewq</odePageId>
+          <odeBlockId>block-1778780022583-oxfq8u9ja</odeBlockId>
+          <odeIdeviceId>idevice-1778780022581-0urakyjxy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿En qué consiste el reto?</strong><br />Tu misión es diseñar una <strong>Identidad Visual (Logotipo)</strong> que te represente. No será un dibujo a mano alzada, sino una construcción geométrica precisa.</p>
+<p>Deberás demostrar que dominas los enlaces y tangencias tanto en el papel como en el ordenador, siguiendo las normas de representación técnica. El resultado final será una <strong>Memoria Técnica</strong> profesional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778780022581-0urakyjxy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿En qué consiste el reto?</strong><br />Tu misión es diseñar una <strong>Identidad Visual (Logotipo)</strong> que te represente. No será un dibujo a mano alzada, sino una construcción geométrica precisa.</p>\n<p>Deberás demostrar que dominas los enlaces y tangencias tanto en el papel como en el ordenador, siguiendo las normas de representación técnica. El resultado final será una <strong>Memoria Técnica</strong> profesional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5skgzs-8cb3neewq</odePageId>
+      <odeBlockId>block-1778780267904-i251jcj2z</odeBlockId>
+      <blockName>Reto: El Código Geométrico de tu Identidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzs-8cb3neewq</odePageId>
+          <odeBlockId>block-1778780267904-i251jcj2z</odeBlockId>
+          <odeIdeviceId>idevice-1778780267901-xv25ceq7p</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>Imagina que eres un diseñador gráfico especializado en Dibujo Técnico. Una empresa (¡tú mismo!) te ha encargado crear una marca que sea visualmente potente y geométricamente perfecta. No vale con un dibujo artístico; debe poder construirse con precisión matemática.</p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p><strong>Tu misión se divide en 4 etapas críticas:</strong></p>
+<p><strong>Etapa 1:</strong> Análisis de tangencias en logotipos reales (Usa el Padlet de recursos).<br /><strong>Etapa 2:</strong> Diseño analógico en lámina con regla y compás (Mínimo 3 enlaces/tangencias).<br /><strong>Etapa 3: </strong>Digitalización técnica en QCAD/LibreCAD usando el sistema de capas.<br /><strong>Etapa 4: </strong>Entrega de Memoria Técnica normalizada (Canva/Genially).</p>
+                    </div>
+                    
+                    <div class="iDevice_buttons feedback-button js-required">
+                        <input type="button" class="CSP-FeedbackBtn feedbacktooglebutton" value="Mostrar retroalimentación">
+                    </div>
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        <p>Recuerda: La clave del éxito en este reto no es solo el dibujo final, sino la limpieza de tus trazados auxiliares y la correcta gestión de capas en el software CAD. Si te atascas, consulta el <strong>Manual de errores comunes</strong> o acude a un <strong>Mentor Digital </strong>del aula.</p>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1778780267901-xv25ceq7p","typeGame":"Case study","history":"<p>Imagina que eres un diseñador gráfico especializado en Dibujo Técnico. Una empresa (¡tú mismo!) te ha encargado crear una marca que sea visualmente potente y geométricamente perfecta. No vale con un dibujo artístico; debe poder construirse con precisión matemática.</p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p><strong>Tu misión se divide en 4 etapas críticas:</strong></p>\n<p><strong>Etapa 1:</strong> Análisis de tangencias en logotipos reales (Usa el Padlet de recursos).<br /><strong>Etapa 2:</strong> Diseño analógico en lámina con regla y compás (Mínimo 3 enlaces/tangencias).<br /><strong>Etapa 3: </strong>Digitalización técnica en QCAD/LibreCAD usando el sistema de capas.<br /><strong>Etapa 4: </strong>Entrega de Memoria Técnica normalizada (Canva/Genially).</p>","feedback":"<p>Recuerda: La clave del éxito en este reto no es solo el dibujo final, sino la limpieza de tus trazados auxiliares y la correcta gestión de capas en el software CAD. Si te atascas, consulta el <strong>Manual de errores comunes</strong> o acude a un <strong>Mentor Digital </strong>del aula.</p>","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp5skgzs-8cb3neewq</odePageId>
+      <odeBlockId>block-1778780715604-t6b9myo9s</odeBlockId>
+      <blockName>Pasos para crear tu Marca Personal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzs-8cb3neewq</odePageId>
+          <odeBlockId>block-1778780715604-t6b9myo9s</odeBlockId>
+          <odeIdeviceId>idevice-1778780715602-z7t32u1zh</odeIdeviceId>
+          <odeIdeviceTypeName>scrambled-list</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-sortableList" id="slidevice-1778780715602-z7t32u1zh" scorm=false>
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1778780715602-z7t32u1zh" data-evaluationb="false" data-evaluationid="79440866-abf3-469b-af64-683bb7abdde1"></div>
+    <div class="exe-sortableList-instructions"><p>Ordena las fases del proyecto de la primera a la última según nuestra hoja de ruta.</p></div>
+    <ul class="exe-sortableList-list"><li>Taller de puesta a punto: Configuración del software CAD.</li><li>Investigación y análisis de tangencias en marcas famosas.</li><li>Diseño analógico mediante trazados técnicos en lámina.</li><li>Dibujo digital por capas en QCAD/LibreCAD.</li><li>Entrega de la Memoria Técnica y exposición final.</li></ul>
+    <div style="display:none">
+        <p class="exe-sortableList-buttonText">Comprobar</p>
+        <p class="exe-sortableList-rightText">¡Correcto!</p>
+        <p class="exe-sortableList-wrongText">No es correcto... La respuesta correcta es:</p>
+    </div>
+    <div class="exe-scorm-message"></div>
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"ScrambledList","instructions":"<p>Ordena las fases del proyecto de la primera a la última según nuestra hoja de ruta.</p>","textAfter":"","afterElement":"","options":["Taller de puesta a punto: Configuración del software CAD.","Investigación y análisis de tangencias en marcas famosas.","Diseño analógico mediante trazados técnicos en lámina.","Dibujo digital por capas en QCAD/LibreCAD.","Entrega de la Memoria Técnica y exposición final."],"time":0,"buttonText":"Comprobar","rightText":"¡Correcto!","wrongText":"No es correcto... La respuesta correcta es:","isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"79440866-abf3-469b-af64-683bb7abdde1","main":"slidevice-1778780715602-z7t32u1zh","msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Su puntuación","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Lista desordenada","msgStartGame":"Pulsa aquí para empezar","msgSubmit":"Enviar","msgPlayStart":"Pulsa aquí para jugar","msgTime":"Tiempo por pregunta","msgCheck":"Comprobar","msgSaveScore":"Guardar la puntuación","msgTestFailed":"No has superado la prueba. Inténtalo de nuevo","msgRetryAttempts":"Has cometido %s errores. Te quedan %s intentos. ¿Quieres intentarlo de nuevo?"},"scorerp":0,"idevice":"idevice_node","showSolutions":true,"attemptsNumber":1,"id":"idevice-1778780715602-z7t32u1zh"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5skgzs-in0w2xknh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5skgzs-in0w2xknh</odePageId>
+      <odeBlockId>block-1778779191580-42ay27q9w</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzs-in0w2xknh</odePageId>
+          <odeBlockId>block-1778779191580-42ay27q9w</odeBlockId>
+          <odeIdeviceId>idevice-1778779191578-0wiqj0qcd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Instrumentos de Evaluación: </strong><br /><strong>Proyecto "Geometría e Identidad" </strong></p>
+<p>1. Rúbrica de Desempeño Técnico de las actividades.</p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+<p>2. Diana de Evaluación de Proceso </p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778779191578-0wiqj0qcd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Instrumentos de Evaluación: </strong><br /><strong>Proyecto \"Geometría e Identidad\" </strong></p>\n<p>1. Rúbrica de Desempeño Técnico de las actividades.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>\n<p>2. Diana de Evaluación de Proceso </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp5skgzt-pwyluiqla</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y Descarga</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y Descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y Descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp5skgzt-pwyluiqla</odePageId>
+      <odeBlockId>block-1778781381590-lco8qgs6a</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp5skgzt-pwyluiqla</odePageId>
+          <odeBlockId>block-1778781381590-lco8qgs6a</odeBlockId>
+          <odeIdeviceId>idevice-1778781381589-2z3oli684</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Geometría e Identidad: El Código de las Marcas</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">"Geometría e Identidad: El Código de las Marcas" es una Situación de Aprendizaje (SdA) diseñada para la materia de Dibujo Técnico I (Bachillerato/4º ESO).
+
+El objetivo principal es que el alumnado diseñe su propia identidad visual (marca personal) integrando el rigor del trazado geométrico analógico (enlaces y tangencias) con la potencia de las herramientas de diseño asistido por ordenador (CAD).
+
+A lo largo del recurso, se abordan contenidos de:
+
+Geometría métrica aplicada: Análisis y trazado de logotipos reales.
+
+Competencia Digital: Gestión de software vectorial (QCAD/LibreCAD), curación de contenidos y seguridad digital (protección de datos y derechos digitales).
+
+Evaluación competencial: Inclusión de rúbricas de desempeño técnico y dianas de autoevaluación.
+
+Este recurso sigue los principios del DUA para fomentar la autonomía del alumnado y la colaboración mediante sistemas de mentoría digital.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María Trinidad López Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
